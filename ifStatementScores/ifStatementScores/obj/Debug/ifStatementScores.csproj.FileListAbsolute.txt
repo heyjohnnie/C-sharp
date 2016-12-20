@@ -1,0 +1,6 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\ifStatementScores\ifStatementScores\bin\Debug\ifStatementScores.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\ifStatementScores\ifStatementScores\bin\Debug\ifStatementScores.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\ifStatementScores\ifStatementScores\bin\Debug\ifStatementScores.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\ifStatementScores\ifStatementScores\obj\Debug\ifStatementScores.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\ifStatementScores\ifStatementScores\obj\Debug\ifStatementScores.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\ifStatementScores\ifStatementScores\obj\Debug\ifStatementScores.pdb

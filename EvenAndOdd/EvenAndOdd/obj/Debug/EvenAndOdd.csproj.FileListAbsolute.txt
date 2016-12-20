@@ -1,0 +1,6 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\EvenAndOdd\EvenAndOdd\bin\Debug\EvenAndOdd.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\EvenAndOdd\EvenAndOdd\bin\Debug\EvenAndOdd.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\EvenAndOdd\EvenAndOdd\bin\Debug\EvenAndOdd.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\EvenAndOdd\EvenAndOdd\obj\Debug\EvenAndOdd.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\EvenAndOdd\EvenAndOdd\obj\Debug\EvenAndOdd.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\EvenAndOdd\EvenAndOdd\obj\Debug\EvenAndOdd.pdb

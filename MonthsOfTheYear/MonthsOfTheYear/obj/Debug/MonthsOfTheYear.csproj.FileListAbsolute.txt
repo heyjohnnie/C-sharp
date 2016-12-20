@@ -1,0 +1,6 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MonthsOfTheYear\MonthsOfTheYear\bin\Debug\MonthsOfTheYear.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MonthsOfTheYear\MonthsOfTheYear\obj\Debug\MonthsOfTheYear.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MonthsOfTheYear\MonthsOfTheYear\bin\Debug\MonthsOfTheYear.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MonthsOfTheYear\MonthsOfTheYear\bin\Debug\MonthsOfTheYear.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MonthsOfTheYear\MonthsOfTheYear\obj\Debug\MonthsOfTheYear.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MonthsOfTheYear\MonthsOfTheYear\obj\Debug\MonthsOfTheYear.pdb

@@ -1,0 +1,6 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MinimumValue\MinimumValue\bin\Debug\MinimumValue.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MinimumValue\MinimumValue\bin\Debug\MinimumValue.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MinimumValue\MinimumValue\bin\Debug\MinimumValue.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MinimumValue\MinimumValue\obj\Debug\MinimumValue.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MinimumValue\MinimumValue\obj\Debug\MinimumValue.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MinimumValue\MinimumValue\obj\Debug\MinimumValue.pdb

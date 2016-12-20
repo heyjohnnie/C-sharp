@@ -1,0 +1,6 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\basicCalculator\basicCalculator\bin\Debug\basicCalculator.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\basicCalculator\basicCalculator\bin\Debug\basicCalculator.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\basicCalculator\basicCalculator\bin\Debug\basicCalculator.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\basicCalculator\basicCalculator\obj\Debug\basicCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\basicCalculator\basicCalculator\obj\Debug\basicCalculator.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\basicCalculator\basicCalculator\obj\Debug\basicCalculator.pdb

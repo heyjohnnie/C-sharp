@@ -1,0 +1,6 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\Increments\Increments\bin\Debug\Increments.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\Increments\Increments\bin\Debug\Increments.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\Increments\Increments\bin\Debug\Increments.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\Increments\Increments\obj\Debug\Increments.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\Increments\Increments\obj\Debug\Increments.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\Increments\Increments\obj\Debug\Increments.pdb

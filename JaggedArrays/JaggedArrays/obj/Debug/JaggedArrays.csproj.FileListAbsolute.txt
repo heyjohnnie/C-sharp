@@ -1,0 +1,5 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\JaggedArrays\JaggedArrays\bin\Debug\JaggedArrays.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\JaggedArrays\JaggedArrays\bin\Debug\JaggedArrays.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\JaggedArrays\JaggedArrays\bin\Debug\JaggedArrays.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.pdb

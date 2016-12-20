@@ -1,0 +1,6 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\RowsAndColumns\RowsAndColumns\bin\Debug\RowsAndColumns.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\RowsAndColumns\RowsAndColumns\bin\Debug\RowsAndColumns.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\RowsAndColumns\RowsAndColumns\bin\Debug\RowsAndColumns.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\RowsAndColumns\RowsAndColumns\obj\Debug\RowsAndColumns.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\RowsAndColumns\RowsAndColumns\obj\Debug\RowsAndColumns.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\RowsAndColumns\RowsAndColumns\obj\Debug\RowsAndColumns.pdb

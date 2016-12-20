@@ -1,0 +1,5 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MultiDimensionalArray\MultiDimensionalArray\bin\Debug\MultiDimensionalArray.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MultiDimensionalArray\MultiDimensionalArray\bin\Debug\MultiDimensionalArray.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MultiDimensionalArray\MultiDimensionalArray\bin\Debug\MultiDimensionalArray.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MultiDimensionalArray\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MultiDimensionalArray\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.pdb

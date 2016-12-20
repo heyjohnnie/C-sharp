@@ -1,0 +1,5 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb

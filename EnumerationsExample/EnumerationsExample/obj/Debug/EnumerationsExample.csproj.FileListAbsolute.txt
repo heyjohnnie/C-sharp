@@ -1,0 +1,6 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\EnumerationsExample\EnumerationsExample\bin\Debug\EnumerationsExample.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\EnumerationsExample\EnumerationsExample\bin\Debug\EnumerationsExample.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\EnumerationsExample\EnumerationsExample\bin\Debug\EnumerationsExample.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\EnumerationsExample\EnumerationsExample\obj\Debug\EnumerationsExample.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\EnumerationsExample\EnumerationsExample\obj\Debug\EnumerationsExample.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\EnumerationsExample\EnumerationsExample\obj\Debug\EnumerationsExample.pdb

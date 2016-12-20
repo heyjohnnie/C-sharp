@@ -1,0 +1,6 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb

@@ -1,0 +1,6 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MultiplicationWithSigns\MultiplicationWithSigns\bin\Debug\MultiplicationWithSigns.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MultiplicationWithSigns\MultiplicationWithSigns\bin\Debug\MultiplicationWithSigns.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MultiplicationWithSigns\MultiplicationWithSigns\bin\Debug\MultiplicationWithSigns.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MultiplicationWithSigns\MultiplicationWithSigns\obj\Debug\MultiplicationWithSigns.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MultiplicationWithSigns\MultiplicationWithSigns\obj\Debug\MultiplicationWithSigns.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\MultiplicationWithSigns\MultiplicationWithSigns\obj\Debug\MultiplicationWithSigns.pdb

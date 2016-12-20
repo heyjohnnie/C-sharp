@@ -1,0 +1,12 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\AverageValue\AverageValue\bin\Debug\AverageValue.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\AverageValue\AverageValue\bin\Debug\AverageValue.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\AverageValue\AverageValue\bin\Debug\AverageValue.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\AverageValue\AverageValue\obj\Debug\AverageValue.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\AverageValue\AverageValue\obj\Debug\AverageValue.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\AverageValue\AverageValue\obj\Debug\AverageValue.pdb
+C:\Users\Johann\Dropbox\Visual Studio 2015\books\Projects\AverageValue\AverageValue\bin\Debug\AverageValue.exe.config
+C:\Users\Johann\Dropbox\Visual Studio 2015\books\Projects\AverageValue\AverageValue\obj\Debug\AverageValue.exe
+C:\Users\Johann\Dropbox\Visual Studio 2015\books\Projects\AverageValue\AverageValue\obj\Debug\AverageValue.pdb
+C:\Users\Johann\Dropbox\Visual Studio 2015\books\Projects\AverageValue\AverageValue\bin\Debug\AverageValue.exe
+C:\Users\Johann\Dropbox\Visual Studio 2015\books\Projects\AverageValue\AverageValue\bin\Debug\AverageValue.pdb
+C:\Users\Johann\Dropbox\Visual Studio 2015\books\Projects\AverageValue\AverageValue\obj\Debug\AverageValue.csprojResolveAssemblyReference.cache

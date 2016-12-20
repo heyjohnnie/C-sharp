@@ -1,0 +1,6 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\CopyingArrays\CopyingArrays\bin\Debug\CopyingArrays.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\CopyingArrays\CopyingArrays\bin\Debug\CopyingArrays.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\CopyingArrays\CopyingArrays\bin\Debug\CopyingArrays.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\CopyingArrays\CopyingArrays\obj\Debug\CopyingArrays.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\CopyingArrays\CopyingArrays\obj\Debug\CopyingArrays.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\books\Projects\CopyingArrays\CopyingArrays\obj\Debug\CopyingArrays.pdb
